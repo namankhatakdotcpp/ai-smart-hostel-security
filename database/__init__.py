@@ -1,0 +1,1 @@
+"""database — SQLite attendance manager."""

@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2026-03-06T03:48:34.513445",
+    "time_str": "03:48 AM",
+    "event_type": "REPEATED_UNKNOWN",
+    "person": "Unknown",
+    "count": 1,
+    "window_s": 60
+  },
+  {
+    "timestamp": "2026-03-06T03:48:49.807962",
+    "time_str": "03:48 AM",
+    "event_type": "REPEATED_UNKNOWN",
+    "person": "Unknown",
+    "count": 1,
+    "window_s": 60
+  },
+  {
+    "timestamp": "2026-03-06T03:49:04.482006",
+    "time_str": "03:49 AM",
+    "event_type": "REPEATED_UNKNOWN",
+    "person": "Unknown",
+    "count": 1,
+    "window_s": 60
+  },
+  {
+    "timestamp": "2026-03-06T05:12:03.668318",
+    "time_str": "05:12 AM",
+    "event_type": "REPEATED_UNKNOWN",
+    "person": "Unknown",
+    "count": 1,
+    "window_s": 60
+  },
+  {
+    "timestamp": "2026-03-06T05:12:13.521515",
+    "time_str": "05:12 AM",
+    "event_type": "REPEATED_UNKNOWN",
+    "person": "Unknown",
+    "count": 1,
+    "window_s": 60
+  },
+  {
+    "timestamp": "2026-03-06T05:12:14.054621",
+    "time_str": "05:12 AM",
+    "event_type": "RAPID_FAIL",
+    "person": "Unknown",
+    "count": 1,
+    "window_s": 60
+  },
+  {
+    "timestamp": "2026-03-06T05:12:14.897572",
+    "time_str": "05:12 AM",
+    "event_type": "REPEATED_UNKNOWN",
+    "person": "Unknown",
+    "count": 1,
+    "window_s": 60
+  },
+  {
+    "timestamp": "2026-03-06T05:27:48.742851",
+    "time_str": "05:27 AM",
+    "event_type": "REPEATED_UNKNOWN",
+    "person": "Unknown",
+    "count": 1,
+    "window_s": 60
+  },
+  {
+    "timestamp": "2026-03-06T05:36:21.867919",
+    "time_str": "05:36 AM",
+    "event_type": "REPEATED_UNKNOWN",
+    "person": "Unknown",
+    "count": 1,
+    "window_s": 60
+  },
+  {
+    "timestamp": "2026-03-06T05:36:27.693320",
+    "time_str": "05:36 AM",
+    "event_type": "RAPID_FAIL",
+    "person": "Unknown",
+    "count": 1,
+    "window_s": 60
+  }
+]

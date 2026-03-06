@@ -1,0 +1,10 @@
+insightface
+onnxruntime
+opencv-python
+pyttsx3
+mediapipe
+streamlit
+pyyaml
+pandas
+requests
+scipy

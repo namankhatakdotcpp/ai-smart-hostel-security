@@ -1,0 +1,24 @@
+app:
+  name: "Hostel Attendance"
+  version: "1.0.0"
+
+paths:
+  embeddings_dir: "data/embeddings"
+  database_file: "data/attendance.db"
+
+face_recognition:
+  model_name: "buffalo_l"
+  distance_threshold: 0.6  # Cosine similarity distance threshold
+
+anti_spoofing:
+  ear_threshold: 0.20 # Eye Aspect Ratio threshold for blink detection
+  consecutive_frames: 2 # Frames to naturally detect a blink
+
+telegram:
+  bot_token: "" # FILL THIS IN
+  chat_id: ""   # FILL THIS IN
+
+camera:
+  device_id: 0 # WebCam ID
+  width: 640
+  height: 480

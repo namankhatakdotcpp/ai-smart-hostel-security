@@ -1,0 +1,1212 @@
+2026-03-05 21:35:28,340 - Register - INFO - Starting registration for Naman (Room: 302)
+2026-03-05 21:35:28,341 - FaceRecognizer - INFO - Loading InsightFace model 'buffalo_l' on CPU...
+2026-03-05 21:47:04,181 - FaceRecognizer - INFO - InsightFace model loaded successfully.
+2026-03-05 21:47:04,184 - FaceRecognizer - INFO - Loaded 0 known embeddings into memory.
+2026-03-05 21:47:04,191 - DBManager - INFO - Database initialized at data/attendance.db
+2026-03-05 21:47:06,572 - Register - INFO - Look at the camera and press 'c' to capture, or 'q' to quit.
+2026-03-05 21:51:25,141 - Register - INFO - Starting registration for Naman (Room: 302)
+2026-03-05 21:51:25,141 - FaceRecognizer - INFO - Loading InsightFace model 'buffalo_l' on CPU...
+2026-03-05 21:51:26,264 - FaceRecognizer - INFO - InsightFace model loaded successfully.
+2026-03-05 21:51:26,273 - FaceRecognizer - INFO - Loaded 0 known embeddings into memory.
+2026-03-05 21:51:26,288 - DBManager - INFO - Database initialized at data/attendance.db
+2026-03-05 21:51:31,435 - Register - INFO - Look at the camera and press 'c' to capture, or 'q' to quit.
+2026-03-05 21:51:46,319 - Register - INFO - Starting registration for Naman (Room: 302)
+2026-03-05 21:51:46,319 - FaceRecognizer - INFO - Loading InsightFace model 'buffalo_l' on CPU...
+2026-03-05 21:51:46,935 - FaceRecognizer - INFO - InsightFace model loaded successfully.
+2026-03-05 21:51:46,937 - FaceRecognizer - INFO - Loaded 0 known embeddings into memory.
+2026-03-05 21:51:46,944 - DBManager - INFO - Database initialized at data/attendance.db
+2026-03-05 21:51:49,054 - Register - INFO - Look at the camera and press 'c' to capture, or 'q' to quit.
+2026-03-05 21:53:13,792 - Register - INFO - Starting registration for Naman (Room: 302)
+2026-03-05 21:53:13,792 - FaceRecognizer - INFO - Loading InsightFace model 'buffalo_l' on CPU...
+2026-03-05 21:53:14,209 - FaceRecognizer - INFO - InsightFace model loaded successfully.
+2026-03-05 21:53:14,209 - FaceRecognizer - INFO - Loaded 0 known embeddings into memory.
+2026-03-05 21:53:14,215 - DBManager - INFO - Database initialized at data/attendance.db
+2026-03-05 21:53:15,942 - Register - INFO - Look at the camera and press 'c' to capture, or 'q' to quit.
+2026-03-05 21:53:26,330 - Register - INFO - Capturing image...
+2026-03-05 21:53:32,363 - FaceRecognizer - INFO - Saved embedding for Naman to data/embeddings/naman.pkl.
+2026-03-05 21:53:32,369 - DBManager - INFO - Registered student: Naman
+2026-03-05 21:53:32,370 - Register - INFO - Registration Completed Successfully!
+2026-03-05 21:55:27,948 - Register - INFO - Starting registration for Naman (Room: 302)
+2026-03-05 21:55:27,949 - FaceRecognizer - INFO - Loading InsightFace model 'buffalo_l' on CPU...
+2026-03-05 21:55:28,406 - FaceRecognizer - INFO - InsightFace model loaded successfully.
+2026-03-05 21:55:28,407 - FaceRecognizer - INFO - Loaded 1 known embeddings into memory.
+2026-03-05 21:55:28,409 - DBManager - INFO - Database initialized at data/attendance.db
+2026-03-05 21:55:30,054 - Register - INFO - Look at the camera and press 'c' to capture, or 'q' to quit.
+2026-03-05 21:55:55,442 - Register - INFO - Capturing image...
+2026-03-05 21:55:58,560 - FaceRecognizer - INFO - Saved embedding for Naman to data/embeddings/naman.pkl.
+2026-03-05 21:55:58,569 - DBManager - WARNING - Student Naman already exists.
+2026-03-05 21:55:58,570 - Register - ERROR - Registration failed. Student might already exist.
+2026-03-06 02:13:45,861 - DBManager - INFO - Database initialized at data/attendance.db
+2026-03-06 02:13:45,894 - DBManager - ERROR - Error fetching today's attendance: no such column: student_name
+2026-03-06 02:25:10,977 - Register - INFO - Starting registration for Dheeraj Gavendra  (Room: 302)
+2026-03-06 02:25:10,977 - FaceRecognizer - INFO - Loading InsightFace model 'buffalo_l' on CPU...
+2026-03-06 02:25:11,589 - FaceRecognizer - INFO - InsightFace model loaded successfully.
+2026-03-06 02:25:11,592 - FaceRecognizer - INFO - Loaded 1 known embeddings into memory.
+2026-03-06 02:25:11,598 - DBManager - INFO - Database initialized at data/attendance.db
+2026-03-06 02:25:14,017 - Register - INFO - Look at the camera and press 'c' to capture, or 'q' to quit.
+2026-03-06 02:25:33,153 - Register - INFO - Registration cancelled.
+2026-03-06 02:25:35,208 - Register - INFO - Starting registration for Dheeraj Gavendra  (Room: 302)
+2026-03-06 02:25:35,208 - FaceRecognizer - INFO - Loading InsightFace model 'buffalo_l' on CPU...
+2026-03-06 02:25:35,707 - FaceRecognizer - INFO - InsightFace model loaded successfully.
+2026-03-06 02:25:35,710 - FaceRecognizer - INFO - Loaded 1 known embeddings into memory.
+2026-03-06 02:25:35,713 - DBManager - INFO - Database initialized at data/attendance.db
+2026-03-06 02:25:37,353 - Register - INFO - Look at the camera and press 'c' to capture, or 'q' to quit.
+2026-03-06 02:25:40,750 - Register - INFO - Registration cancelled.
+2026-03-06 02:25:42,758 - Register - INFO - Starting registration for Dheeraj Gavendra  (Room: 302)
+2026-03-06 02:25:42,758 - FaceRecognizer - INFO - Loading InsightFace model 'buffalo_l' on CPU...
+2026-03-06 02:25:43,249 - FaceRecognizer - INFO - InsightFace model loaded successfully.
+2026-03-06 02:25:43,249 - FaceRecognizer - INFO - Loaded 1 known embeddings into memory.
+2026-03-06 02:25:43,252 - DBManager - INFO - Database initialized at data/attendance.db
+2026-03-06 02:25:44,810 - Register - INFO - Look at the camera and press 'c' to capture, or 'q' to quit.
+2026-03-06 02:25:49,876 - Register - INFO - Starting registration for Dheeraj Gavendra  (Room: 302)
+2026-03-06 02:25:49,876 - FaceRecognizer - INFO - Loading InsightFace model 'buffalo_l' on CPU...
+2026-03-06 02:25:50,224 - FaceRecognizer - INFO - InsightFace model loaded successfully.
+2026-03-06 02:25:50,224 - FaceRecognizer - INFO - Loaded 1 known embeddings into memory.
+2026-03-06 02:25:50,225 - DBManager - INFO - Database initialized at data/attendance.db
+2026-03-06 02:25:51,669 - Register - INFO - Look at the camera and press 'c' to capture, or 'q' to quit.
+2026-03-06 02:25:53,608 - Register - INFO - Registration cancelled.
+2026-03-06 02:25:55,453 - Register - INFO - Starting registration for Dheeraj Gavendra  (Room: 302)
+2026-03-06 02:25:55,453 - FaceRecognizer - INFO - Loading InsightFace model 'buffalo_l' on CPU...
+2026-03-06 02:25:55,842 - FaceRecognizer - INFO - InsightFace model loaded successfully.
+2026-03-06 02:25:55,843 - FaceRecognizer - INFO - Loaded 1 known embeddings into memory.
+2026-03-06 02:25:55,844 - DBManager - INFO - Database initialized at data/attendance.db
+2026-03-06 02:25:57,319 - Register - INFO - Look at the camera and press 'c' to capture, or 'q' to quit.
+2026-03-06 02:26:00,277 - Register - INFO - Registration cancelled.
+2026-03-06 03:21:44,575  INFO      runtime — =======================================================
+2026-03-06 03:21:44,575  INFO      runtime —   Smart Hostel AI Attendance System — Starting Up
+2026-03-06 03:21:44,575  INFO      runtime — =======================================================
+2026-03-06 03:21:44,575  INFO      runtime — Loading InsightFace model…
+2026-03-06 03:21:44,575  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-06 03:21:45,080  INFO      core.face_engine — FaceEngine ready.
+2026-03-06 03:21:45,080  INFO      runtime — Loading student embeddings…
+2026-03-06 03:21:45,086  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-06 03:21:45,086  INFO      runtime — Opening camera (device 0)…
+2026-03-06 03:21:49,056  INFO      runtime — System running. Press 'q' to quit.
+2026-03-06 03:21:54,040  INFO      runtime — [MATCH] Naman                score=0.5613
+2026-03-06 03:21:54,040  INFO      services.greeting_service — Speaking greeting for 'Naman': Good evening Naman. Welcome back.
+2026-03-06 03:21:54,070  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:54,118  INFO      runtime — [MATCH] Naman                score=0.5613
+2026-03-06 03:21:54,130  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:54,400  INFO      runtime — [MATCH] Naman                score=0.6059
+2026-03-06 03:21:54,401  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:54,447  INFO      runtime — [MATCH] Naman                score=0.6059
+2026-03-06 03:21:54,447  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:54,749  INFO      runtime — [MATCH] Naman                score=0.6047
+2026-03-06 03:21:54,750  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:54,768  INFO      runtime — [MATCH] Naman                score=0.6047
+2026-03-06 03:21:54,768  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:55,121  INFO      runtime — [MATCH] Naman                score=0.6046
+2026-03-06 03:21:55,121  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:55,208  INFO      runtime — [MATCH] Naman                score=0.6046
+2026-03-06 03:21:55,208  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:55,497  INFO      runtime — [MATCH] Naman                score=0.6331
+2026-03-06 03:21:55,498  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:55,514  INFO      runtime — [MATCH] Naman                score=0.6331
+2026-03-06 03:21:55,514  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:55,817  INFO      runtime — [MATCH] Naman                score=0.6448
+2026-03-06 03:21:55,818  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:55,849  INFO      runtime — [MATCH] Naman                score=0.6448
+2026-03-06 03:21:55,849  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:56,116  INFO      runtime — [MATCH] Naman                score=0.6537
+2026-03-06 03:21:56,116  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:56,146  INFO      runtime — [MATCH] Naman                score=0.6537
+2026-03-06 03:21:56,146  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:56,427  INFO      runtime — [MATCH] Naman                score=0.6786
+2026-03-06 03:21:56,427  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:56,448  INFO      runtime — [MATCH] Naman                score=0.6786
+2026-03-06 03:21:56,448  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:56,752  INFO      runtime — [MATCH] Naman                score=0.6676
+2026-03-06 03:21:56,753  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:56,783  INFO      runtime — [MATCH] Naman                score=0.6676
+2026-03-06 03:21:56,784  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:57,062  INFO      runtime — [MATCH] Naman                score=0.6634
+2026-03-06 03:21:57,063  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:57,082  INFO      runtime — [MATCH] Naman                score=0.6634
+2026-03-06 03:21:57,082  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:57,383  INFO      runtime — [MATCH] Naman                score=0.6834
+2026-03-06 03:21:57,384  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:57,413  INFO      runtime — [MATCH] Naman                score=0.6834
+2026-03-06 03:21:57,414  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:57,683  INFO      runtime — [MATCH] Naman                score=0.6721
+2026-03-06 03:21:57,683  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:57,716  INFO      runtime — [MATCH] Naman                score=0.6721
+2026-03-06 03:21:57,716  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:57,947  INFO      runtime — [MATCH] Naman                score=0.6773
+2026-03-06 03:21:57,948  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:57,991  INFO      runtime — [MATCH] Naman                score=0.6773
+2026-03-06 03:21:57,992  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:58,248  INFO      runtime — [MATCH] Naman                score=0.6813
+2026-03-06 03:21:58,248  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:58,274  INFO      runtime — [MATCH] Naman                score=0.6813
+2026-03-06 03:21:58,275  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:58,513  INFO      runtime — [MATCH] Naman                score=0.6796
+2026-03-06 03:21:58,514  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:58,541  INFO      runtime — [MATCH] Naman                score=0.6796
+2026-03-06 03:21:58,541  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:58,767  INFO      runtime — [MATCH] Naman                score=0.6724
+2026-03-06 03:21:58,768  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:58,780  INFO      runtime — [MATCH] Naman                score=0.6724
+2026-03-06 03:21:58,780  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:59,044  INFO      runtime — [MATCH] Naman                score=0.6521
+2026-03-06 03:21:59,045  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:59,081  INFO      runtime — [MATCH] Naman                score=0.6521
+2026-03-06 03:21:59,082  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:59,309  INFO      runtime — [MATCH] Naman                score=0.6559
+2026-03-06 03:21:59,309  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:59,339  INFO      runtime — [MATCH] Naman                score=0.6559
+2026-03-06 03:21:59,340  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:59,566  INFO      runtime — [MATCH] Naman                score=0.6773
+2026-03-06 03:21:59,567  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:59,581  INFO      runtime — [MATCH] Naman                score=0.6773
+2026-03-06 03:21:59,582  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:59,840  INFO      runtime — [MATCH] Naman                score=0.6609
+2026-03-06 03:21:59,841  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:21:59,880  INFO      runtime — [MATCH] Naman                score=0.6609
+2026-03-06 03:21:59,881  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:00,124  INFO      runtime — [MATCH] Naman                score=0.6477
+2026-03-06 03:22:00,124  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:00,147  INFO      runtime — [MATCH] Naman                score=0.6477
+2026-03-06 03:22:00,147  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:00,414  INFO      runtime — [MATCH] Naman                score=0.6475
+2026-03-06 03:22:00,415  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:00,447  INFO      runtime — [MATCH] Naman                score=0.6475
+2026-03-06 03:22:00,447  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:00,700  INFO      runtime — [MATCH] Naman                score=0.6611
+2026-03-06 03:22:00,700  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:00,714  INFO      runtime — [MATCH] Naman                score=0.6611
+2026-03-06 03:22:00,714  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:00,973  INFO      runtime — [MATCH] Naman                score=0.6876
+2026-03-06 03:22:00,974  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:01,013  INFO      runtime — [MATCH] Naman                score=0.6876
+2026-03-06 03:22:01,013  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:01,238  INFO      runtime — [MATCH] Naman                score=0.6892
+2026-03-06 03:22:01,239  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:01,280  INFO      runtime — [MATCH] Naman                score=0.6892
+2026-03-06 03:22:01,281  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:01,507  INFO      runtime — [MATCH] Naman                score=0.6935
+2026-03-06 03:22:01,507  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:01,545  INFO      runtime — [MATCH] Naman                score=0.6935
+2026-03-06 03:22:01,546  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:01,772  INFO      runtime — [MATCH] Naman                score=0.6628
+2026-03-06 03:22:01,772  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:01,806  INFO      runtime — [MATCH] Naman                score=0.6628
+2026-03-06 03:22:01,807  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:02,032  INFO      runtime — [MATCH] Naman                score=0.6469
+2026-03-06 03:22:02,032  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:02,046  INFO      runtime — [MATCH] Naman                score=0.6469
+2026-03-06 03:22:02,046  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:02,310  INFO      runtime — [MATCH] Naman                score=0.6700
+2026-03-06 03:22:02,310  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:02,347  INFO      runtime — [MATCH] Naman                score=0.6700
+2026-03-06 03:22:02,347  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:02,592  INFO      runtime — [MATCH] Naman                score=0.6988
+2026-03-06 03:22:02,592  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:02,614  INFO      runtime — [MATCH] Naman                score=0.6988
+2026-03-06 03:22:02,614  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:02,892  INFO      runtime — [MATCH] Naman                score=0.6593
+2026-03-06 03:22:02,893  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:02,913  INFO      runtime — [MATCH] Naman                score=0.6593
+2026-03-06 03:22:02,913  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:03,175  INFO      runtime — [MATCH] Naman                score=0.6593
+2026-03-06 03:22:03,176  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:03,215  INFO      runtime — [MATCH] Naman                score=0.6593
+2026-03-06 03:22:03,215  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:03,455  INFO      runtime — [MATCH] Naman                score=0.6913
+2026-03-06 03:22:03,455  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:03,479  INFO      runtime — [MATCH] Naman                score=0.6913
+2026-03-06 03:22:03,480  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:03,726  INFO      runtime — [MATCH] Naman                score=0.6534
+2026-03-06 03:22:03,727  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:03,746  INFO      runtime — [MATCH] Naman                score=0.6534
+2026-03-06 03:22:03,747  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:04,056  INFO      runtime — [MATCH] Naman                score=0.6784
+2026-03-06 03:22:04,057  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:04,084  INFO      runtime — [MATCH] Naman                score=0.6784
+2026-03-06 03:22:04,085  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:04,353  INFO      runtime — [MATCH] Naman                score=0.6873
+2026-03-06 03:22:04,353  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:04,379  INFO      runtime — [MATCH] Naman                score=0.6873
+2026-03-06 03:22:04,379  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:04,601  INFO      runtime — [MATCH] Naman                score=0.6924
+2026-03-06 03:22:04,601  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:04,647  INFO      runtime — [MATCH] Naman                score=0.6924
+2026-03-06 03:22:04,647  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:04,873  INFO      runtime — [MATCH] Naman                score=0.6951
+2026-03-06 03:22:04,873  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:04,913  INFO      runtime — [MATCH] Naman                score=0.6951
+2026-03-06 03:22:04,913  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:05,141  INFO      runtime — [MATCH] Naman                score=0.6790
+2026-03-06 03:22:05,141  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:05,182  INFO      runtime — [MATCH] Naman                score=0.6790
+2026-03-06 03:22:05,182  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:05,402  INFO      runtime — [MATCH] Naman                score=0.6910
+2026-03-06 03:22:05,403  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:05,446  INFO      runtime — [MATCH] Naman                score=0.6910
+2026-03-06 03:22:05,446  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:05,677  INFO      runtime — [MATCH] Naman                score=0.6572
+2026-03-06 03:22:05,678  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:05,710  INFO      runtime — [MATCH] Naman                score=0.6572
+2026-03-06 03:22:05,710  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:05,943  INFO      runtime — [MATCH] Naman                score=0.6919
+2026-03-06 03:22:05,944  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:05,976  INFO      runtime — [MATCH] Naman                score=0.6919
+2026-03-06 03:22:05,977  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:06,237  INFO      runtime — [MATCH] Naman                score=0.6805
+2026-03-06 03:22:06,238  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:06,276  INFO      runtime — [MATCH] Naman                score=0.6805
+2026-03-06 03:22:06,276  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:06,498  INFO      runtime — [MATCH] Naman                score=0.6923
+2026-03-06 03:22:06,499  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:06,542  INFO      runtime — [MATCH] Naman                score=0.6923
+2026-03-06 03:22:06,542  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:06,763  INFO      runtime — [MATCH] Naman                score=0.6856
+2026-03-06 03:22:06,763  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:06,776  INFO      runtime — [MATCH] Naman                score=0.6856
+2026-03-06 03:22:06,777  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:07,032  INFO      runtime — [MATCH] Naman                score=0.6753
+2026-03-06 03:22:07,032  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:07,046  INFO      runtime — [MATCH] Naman                score=0.6753
+2026-03-06 03:22:07,046  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:07,431  INFO      runtime — [MATCH] Naman                score=0.6794
+2026-03-06 03:22:07,431  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:07,477  INFO      runtime — [MATCH] Naman                score=0.6794
+2026-03-06 03:22:07,478  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:07,712  INFO      runtime — [MATCH] Naman                score=0.6753
+2026-03-06 03:22:07,712  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:07,746  INFO      runtime — [MATCH] Naman                score=0.6753
+2026-03-06 03:22:07,747  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:07,971  INFO      runtime — [MATCH] Naman                score=0.6356
+2026-03-06 03:22:07,972  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:08,013  INFO      runtime — [MATCH] Naman                score=0.6356
+2026-03-06 03:22:08,013  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:08,355  INFO      runtime — [MATCH] Naman                score=0.6363
+2026-03-06 03:22:08,356  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:08,383  INFO      runtime — [MATCH] Naman                score=0.6363
+2026-03-06 03:22:08,383  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:08,642  INFO      runtime — [MATCH] Naman                score=0.6693
+2026-03-06 03:22:08,642  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:08,682  INFO      runtime — [MATCH] Naman                score=0.6693
+2026-03-06 03:22:08,682  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:08,900  INFO      runtime — [MATCH] Naman                score=0.6615
+2026-03-06 03:22:08,900  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:08,916  INFO      runtime — [MATCH] Naman                score=0.6615
+2026-03-06 03:22:08,916  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:09,166  INFO      runtime — [MATCH] Naman                score=0.6581
+2026-03-06 03:22:09,166  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:09,213  INFO      runtime — [MATCH] Naman                score=0.6581
+2026-03-06 03:22:09,213  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:09,435  INFO      runtime — [MATCH] Naman                score=0.6623
+2026-03-06 03:22:09,435  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:09,477  INFO      runtime — [MATCH] Naman                score=0.6623
+2026-03-06 03:22:09,478  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:09,747  INFO      runtime — [MATCH] Naman                score=0.6468
+2026-03-06 03:22:09,747  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:09,779  INFO      runtime — [MATCH] Naman                score=0.6468
+2026-03-06 03:22:09,779  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:10,004  INFO      runtime — [MATCH] Naman                score=0.6440
+2026-03-06 03:22:10,004  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:10,049  INFO      runtime — [MATCH] Naman                score=0.6440
+2026-03-06 03:22:10,049  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:10,269  INFO      runtime — [MATCH] Naman                score=0.6507
+2026-03-06 03:22:10,269  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:10,313  INFO      runtime — [MATCH] Naman                score=0.6507
+2026-03-06 03:22:10,313  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:10,536  INFO      runtime — [MATCH] Naman                score=0.6964
+2026-03-06 03:22:10,537  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:10,579  INFO      runtime — [MATCH] Naman                score=0.6964
+2026-03-06 03:22:10,579  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:10,803  INFO      runtime — [MATCH] Naman                score=0.7079
+2026-03-06 03:22:10,804  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:10,844  INFO      runtime — [MATCH] Naman                score=0.7079
+2026-03-06 03:22:10,845  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:11,068  INFO      runtime — [MATCH] Naman                score=0.7042
+2026-03-06 03:22:11,068  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:11,113  INFO      runtime — [MATCH] Naman                score=0.7042
+2026-03-06 03:22:11,113  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:11,336  INFO      runtime — [MATCH] Naman                score=0.6851
+2026-03-06 03:22:11,336  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:11,379  INFO      runtime — [MATCH] Naman                score=0.6851
+2026-03-06 03:22:11,379  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:11,602  INFO      runtime — [MATCH] Naman                score=0.6772
+2026-03-06 03:22:11,603  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:11,646  INFO      runtime — [MATCH] Naman                score=0.6772
+2026-03-06 03:22:11,646  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:11,871  INFO      runtime — [MATCH] Naman                score=0.6818
+2026-03-06 03:22:11,872  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:11,912  INFO      runtime — [MATCH] Naman                score=0.6818
+2026-03-06 03:22:11,912  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:12,146  INFO      runtime — [MATCH] Naman                score=0.6683
+2026-03-06 03:22:12,147  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:12,180  INFO      runtime — [MATCH] Naman                score=0.6683
+2026-03-06 03:22:12,180  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:12,403  INFO      runtime — [MATCH] Naman                score=0.6454
+2026-03-06 03:22:12,404  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:12,416  INFO      runtime — [MATCH] Naman                score=0.6454
+2026-03-06 03:22:12,416  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:12,668  INFO      runtime — [MATCH] Naman                score=0.6805
+2026-03-06 03:22:12,669  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:12,710  INFO      runtime — [MATCH] Naman                score=0.6805
+2026-03-06 03:22:12,710  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:12,939  INFO      runtime — [MATCH] Naman                score=0.6973
+2026-03-06 03:22:12,940  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:12,979  INFO      runtime — [MATCH] Naman                score=0.6973
+2026-03-06 03:22:12,979  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:13,232  INFO      runtime — [MATCH] Naman                score=0.7087
+2026-03-06 03:22:13,233  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:13,278  INFO      runtime — [MATCH] Naman                score=0.7087
+2026-03-06 03:22:13,278  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:13,516  INFO      runtime — [MATCH] Naman                score=0.7155
+2026-03-06 03:22:13,517  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:13,545  INFO      runtime — [MATCH] Naman                score=0.7155
+2026-03-06 03:22:13,546  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:13,789  INFO      runtime — [MATCH] Naman                score=0.7292
+2026-03-06 03:22:13,789  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:13,811  INFO      runtime — [MATCH] Naman                score=0.7292
+2026-03-06 03:22:13,812  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:14,099  INFO      runtime — [MATCH] Naman                score=0.7458
+2026-03-06 03:22:14,100  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:14,144  INFO      runtime — [MATCH] Naman                score=0.7458
+2026-03-06 03:22:14,145  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:14,383  INFO      runtime — [MATCH] Naman                score=0.7508
+2026-03-06 03:22:14,383  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:14,412  INFO      runtime — [MATCH] Naman                score=0.7508
+2026-03-06 03:22:14,413  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:14,647  INFO      runtime — [MATCH] Naman                score=0.7398
+2026-03-06 03:22:14,647  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:14,678  INFO      runtime — [MATCH] Naman                score=0.7398
+2026-03-06 03:22:14,679  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:14,899  INFO      runtime — [MATCH] Naman                score=0.7500
+2026-03-06 03:22:14,899  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:14,948  INFO      runtime — [MATCH] Naman                score=0.7500
+2026-03-06 03:22:14,948  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:15,171  INFO      runtime — [MATCH] Naman                score=0.7444
+2026-03-06 03:22:15,171  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:15,213  INFO      runtime — [MATCH] Naman                score=0.7444
+2026-03-06 03:22:15,214  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:15,435  INFO      runtime — [MATCH] Naman                score=0.7282
+2026-03-06 03:22:15,435  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:15,478  INFO      runtime — [MATCH] Naman                score=0.7282
+2026-03-06 03:22:15,478  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:15,703  INFO      runtime — [MATCH] Naman                score=0.7433
+2026-03-06 03:22:15,703  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:15,760  INFO      runtime — [MATCH] Naman                score=0.7433
+2026-03-06 03:22:15,760  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:15,970  INFO      runtime — [MATCH] Naman                score=0.7118
+2026-03-06 03:22:15,971  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:16,013  INFO      runtime — [MATCH] Naman                score=0.7118
+2026-03-06 03:22:16,014  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:16,254  INFO      runtime — [MATCH] Naman                score=0.6958
+2026-03-06 03:22:16,254  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:16,278  INFO      runtime — [MATCH] Naman                score=0.6958
+2026-03-06 03:22:16,278  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:16,570  INFO      runtime — [MATCH] Naman                score=0.7038
+2026-03-06 03:22:16,570  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:16,614  INFO      runtime — [MATCH] Naman                score=0.7038
+2026-03-06 03:22:16,614  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:16,839  INFO      runtime — [MATCH] Naman                score=0.7033
+2026-03-06 03:22:16,839  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:16,879  INFO      runtime — [MATCH] Naman                score=0.7033
+2026-03-06 03:22:16,879  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:17,122  INFO      runtime — [MATCH] Naman                score=0.7020
+2026-03-06 03:22:17,122  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:17,144  INFO      runtime — [MATCH] Naman                score=0.7020
+2026-03-06 03:22:17,144  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:17,413  INFO      runtime — [MATCH] Naman                score=0.6606
+2026-03-06 03:22:17,413  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:17,467  INFO      runtime — [MATCH] Naman                score=0.6606
+2026-03-06 03:22:17,467  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:17,669  INFO      runtime — [MATCH] Naman                score=0.6678
+2026-03-06 03:22:17,669  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:17,710  INFO      runtime — [MATCH] Naman                score=0.6678
+2026-03-06 03:22:17,710  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:17,934  INFO      runtime — [MATCH] Naman                score=0.6496
+2026-03-06 03:22:17,935  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:17,977  INFO      runtime — [MATCH] Naman                score=0.6496
+2026-03-06 03:22:17,977  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:18,201  INFO      runtime — [MATCH] Naman                score=0.6420
+2026-03-06 03:22:18,201  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:18,245  INFO      runtime — [MATCH] Naman                score=0.6420
+2026-03-06 03:22:18,246  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:18,468  INFO      runtime — [MATCH] Naman                score=0.6455
+2026-03-06 03:22:18,468  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:18,491  INFO      runtime — [MATCH] Naman                score=0.6455
+2026-03-06 03:22:18,491  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:18,736  INFO      runtime — [MATCH] Naman                score=0.6503
+2026-03-06 03:22:18,736  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:18,778  INFO      runtime — [MATCH] Naman                score=0.6503
+2026-03-06 03:22:18,779  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:19,001  INFO      runtime — [MATCH] Naman                score=0.6646
+2026-03-06 03:22:19,001  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:19,045  INFO      runtime — [MATCH] Naman                score=0.6646
+2026-03-06 03:22:19,046  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:19,267  INFO      runtime — [MATCH] Naman                score=0.6715
+2026-03-06 03:22:19,268  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:19,311  INFO      runtime — [MATCH] Naman                score=0.6715
+2026-03-06 03:22:19,312  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:19,540  INFO      runtime — [MATCH] Naman                score=0.6908
+2026-03-06 03:22:19,540  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:19,574  INFO      runtime — [MATCH] Naman                score=0.6908
+2026-03-06 03:22:19,574  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:19,800  INFO      runtime — [MATCH] Naman                score=0.6678
+2026-03-06 03:22:19,800  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:19,838  INFO      runtime — [MATCH] Naman                score=0.6678
+2026-03-06 03:22:19,839  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:20,066  INFO      runtime — [MATCH] Naman                score=0.7121
+2026-03-06 03:22:20,066  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:20,108  INFO      runtime — [MATCH] Naman                score=0.7121
+2026-03-06 03:22:20,109  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:20,333  INFO      runtime — [MATCH] Naman                score=0.7036
+2026-03-06 03:22:20,333  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:20,372  INFO      runtime — [MATCH] Naman                score=0.7036
+2026-03-06 03:22:20,373  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:20,601  INFO      runtime — [MATCH] Naman                score=0.7068
+2026-03-06 03:22:20,602  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:20,639  INFO      runtime — [MATCH] Naman                score=0.7068
+2026-03-06 03:22:20,640  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:20,899  INFO      runtime — [MATCH] Naman                score=0.7075
+2026-03-06 03:22:20,899  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:20,943  INFO      runtime — [MATCH] Naman                score=0.7075
+2026-03-06 03:22:20,943  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:21,180  INFO      runtime — [MATCH] Naman                score=0.7289
+2026-03-06 03:22:21,181  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:21,209  INFO      runtime — [MATCH] Naman                score=0.7289
+2026-03-06 03:22:21,210  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:21,439  INFO      runtime — [MATCH] Naman                score=0.7299
+2026-03-06 03:22:21,439  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:21,480  INFO      runtime — [MATCH] Naman                score=0.7299
+2026-03-06 03:22:21,480  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:21,750  INFO      runtime — [MATCH] Naman                score=0.7195
+2026-03-06 03:22:21,750  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:21,779  INFO      runtime — [MATCH] Naman                score=0.7195
+2026-03-06 03:22:21,780  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:22,038  INFO      runtime — [MATCH] Naman                score=0.7241
+2026-03-06 03:22:22,038  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:22,059  INFO      runtime — [MATCH] Naman                score=0.7241
+2026-03-06 03:22:22,059  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:22,318  INFO      runtime — [MATCH] Naman                score=0.7267
+2026-03-06 03:22:22,318  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:22,350  INFO      runtime — [MATCH] Naman                score=0.7267
+2026-03-06 03:22:22,350  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:22,578  INFO      runtime — [MATCH] Naman                score=0.7277
+2026-03-06 03:22:22,578  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:22,614  INFO      runtime — [MATCH] Naman                score=0.7277
+2026-03-06 03:22:22,614  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:22,837  INFO      runtime — [MATCH] Naman                score=0.6976
+2026-03-06 03:22:22,838  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:22,878  INFO      runtime — [MATCH] Naman                score=0.6976
+2026-03-06 03:22:22,878  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:23,105  INFO      runtime — [MATCH] Naman                score=0.7102
+2026-03-06 03:22:23,106  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:23,152  INFO      runtime — [MATCH] Naman                score=0.7102
+2026-03-06 03:22:23,152  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:23,380  INFO      runtime — [MATCH] Naman                score=0.7155
+2026-03-06 03:22:23,381  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:23,412  INFO      runtime — [MATCH] Naman                score=0.7155
+2026-03-06 03:22:23,412  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:23,674  INFO      runtime — [MATCH] Naman                score=0.7118
+2026-03-06 03:22:23,675  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:22:23,696  INFO      runtime — Shutting down…
+2026-03-06 03:22:23,727  INFO      runtime — System stopped cleanly.
+2026-03-06 03:28:30,098  INFO      runtime — =======================================================
+2026-03-06 03:28:30,099  INFO      runtime —   Smart Hostel AI Attendance System — Starting Up
+2026-03-06 03:28:30,099  INFO      runtime — =======================================================
+2026-03-06 03:28:30,099  INFO      runtime — Loading InsightFace model…
+2026-03-06 03:28:30,099  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-06 03:28:30,788  INFO      core.face_engine — FaceEngine ready.
+2026-03-06 03:28:30,788  INFO      runtime — Loading student embeddings…
+2026-03-06 03:28:30,791  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-06 03:28:30,791  INFO      runtime — Opening camera (device 0)…
+2026-03-06 03:28:38,052  INFO      runtime — System running. Press 'q' to quit.
+2026-03-06 03:28:40,851  INFO      runtime — [MATCH] Naman                score=0.5075
+2026-03-06 03:28:40,853  INFO      services.greeting_service — Speaking greeting for 'Naman': Good evening Naman. Welcome back.
+2026-03-06 03:28:40,908  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:40,953  INFO      runtime — [MATCH] Naman                score=0.5075
+2026-03-06 03:28:40,954  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:41,346  INFO      runtime — [MATCH] Naman                score=0.6005
+2026-03-06 03:28:41,347  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:41,394  INFO      runtime — [MATCH] Naman                score=0.6005
+2026-03-06 03:28:41,394  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:41,767  INFO      runtime — [MATCH] Naman                score=0.6027
+2026-03-06 03:28:41,768  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:41,805  INFO      runtime — [MATCH] Naman                score=0.6027
+2026-03-06 03:28:41,805  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:42,082  INFO      runtime — [MATCH] Naman                score=0.6231
+2026-03-06 03:28:42,082  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:42,107  INFO      runtime — [MATCH] Naman                score=0.6231
+2026-03-06 03:28:42,108  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:42,413  INFO      runtime — [MATCH] Naman                score=0.6881
+2026-03-06 03:28:42,413  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:42,441  INFO      runtime — [MATCH] Naman                score=0.6881
+2026-03-06 03:28:42,441  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:42,710  INFO      runtime — [MATCH] Naman                score=0.6945
+2026-03-06 03:28:42,710  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:42,749  INFO      runtime — [MATCH] Naman                score=0.6945
+2026-03-06 03:28:42,750  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:42,993  INFO      runtime — [MATCH] Naman                score=0.6976
+2026-03-06 03:28:42,993  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:43,009  INFO      runtime — [MATCH] Naman                score=0.6976
+2026-03-06 03:28:43,010  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:43,292  INFO      runtime — [MATCH] Naman                score=0.6987
+2026-03-06 03:28:43,293  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:43,310  INFO      runtime — [MATCH] Naman                score=0.6987
+2026-03-06 03:28:43,310  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:43,592  INFO      runtime — [MATCH] Naman                score=0.7037
+2026-03-06 03:28:43,593  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:43,609  INFO      runtime — [MATCH] Naman                score=0.7037
+2026-03-06 03:28:43,609  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:43,897  INFO      runtime — [MATCH] Naman                score=0.6994
+2026-03-06 03:28:43,897  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:43,910  INFO      runtime — [MATCH] Naman                score=0.6994
+2026-03-06 03:28:43,910  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:44,203  INFO      runtime — [MATCH] Naman                score=0.6949
+2026-03-06 03:28:44,203  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:44,241  INFO      runtime — [MATCH] Naman                score=0.6949
+2026-03-06 03:28:44,241  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:44,504  INFO      runtime — [MATCH] Naman                score=0.6740
+2026-03-06 03:28:44,505  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:44,539  INFO      runtime — [MATCH] Naman                score=0.6740
+2026-03-06 03:28:44,539  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:44,772  INFO      runtime — [MATCH] Naman                score=0.6887
+2026-03-06 03:28:44,773  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:44,806  INFO      runtime — [MATCH] Naman                score=0.6887
+2026-03-06 03:28:44,807  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:45,051  INFO      runtime — [MATCH] Naman                score=0.6969
+2026-03-06 03:28:45,051  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:45,074  INFO      runtime — [MATCH] Naman                score=0.6969
+2026-03-06 03:28:45,074  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:45,351  INFO      runtime — [MATCH] Naman                score=0.6630
+2026-03-06 03:28:45,352  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:45,372  INFO      runtime — [MATCH] Naman                score=0.6630
+2026-03-06 03:28:45,373  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:45,654  INFO      runtime — [MATCH] Naman                score=0.6987
+2026-03-06 03:28:45,655  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:45,675  INFO      runtime — [MATCH] Naman                score=0.6987
+2026-03-06 03:28:45,676  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:45,943  INFO      runtime — [MATCH] Naman                score=0.7034
+2026-03-06 03:28:45,943  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:45,972  INFO      runtime — [MATCH] Naman                score=0.7034
+2026-03-06 03:28:45,973  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:46,201  INFO      runtime — [MATCH] Naman                score=0.7137
+2026-03-06 03:28:46,202  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:46,240  INFO      runtime — [MATCH] Naman                score=0.7137
+2026-03-06 03:28:46,240  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:46,463  INFO      runtime — [MATCH] Naman                score=0.7037
+2026-03-06 03:28:46,464  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:46,507  INFO      runtime — [MATCH] Naman                score=0.7037
+2026-03-06 03:28:46,507  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:46,730  INFO      runtime — [MATCH] Naman                score=0.6993
+2026-03-06 03:28:46,730  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:46,774  INFO      runtime — [MATCH] Naman                score=0.6993
+2026-03-06 03:28:46,774  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:46,996  INFO      runtime — [MATCH] Naman                score=0.7084
+2026-03-06 03:28:46,996  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:47,039  INFO      runtime — [MATCH] Naman                score=0.7084
+2026-03-06 03:28:47,039  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:47,261  INFO      runtime — [MATCH] Naman                score=0.7029
+2026-03-06 03:28:47,261  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:47,306  INFO      runtime — [MATCH] Naman                score=0.7029
+2026-03-06 03:28:47,306  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:47,543  INFO      runtime — [MATCH] Naman                score=0.7091
+2026-03-06 03:28:47,543  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:47,564  INFO      runtime — [MATCH] Naman                score=0.7091
+2026-03-06 03:28:47,564  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:47,819  INFO      runtime — [MATCH] Naman                score=0.7065
+2026-03-06 03:28:47,819  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:47,833  INFO      runtime — [MATCH] Naman                score=0.7065
+2026-03-06 03:28:47,833  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:48,095  INFO      runtime — [MATCH] Naman                score=0.7014
+2026-03-06 03:28:48,096  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:48,129  INFO      runtime — [MATCH] Naman                score=0.7014
+2026-03-06 03:28:48,136  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:48,359  INFO      runtime — [MATCH] Naman                score=0.6997
+2026-03-06 03:28:48,360  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:48,401  INFO      runtime — [MATCH] Naman                score=0.6997
+2026-03-06 03:28:48,402  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:48,629  INFO      runtime — [MATCH] Naman                score=0.6928
+2026-03-06 03:28:48,629  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:48,666  INFO      runtime — [MATCH] Naman                score=0.6928
+2026-03-06 03:28:48,666  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:48,892  INFO      runtime — [MATCH] Naman                score=0.6779
+2026-03-06 03:28:48,892  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:48,935  INFO      runtime — [MATCH] Naman                score=0.6779
+2026-03-06 03:28:48,935  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:49,139  INFO      runtime — [MATCH] Naman                score=0.6990
+2026-03-06 03:28:49,140  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:49,173  INFO      runtime — [MATCH] Naman                score=0.6990
+2026-03-06 03:28:49,173  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:49,405  INFO      runtime — [MATCH] Naman                score=0.6868
+2026-03-06 03:28:49,406  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:49,441  INFO      runtime — [MATCH] Naman                score=0.6868
+2026-03-06 03:28:49,442  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:49,679  INFO      runtime — [MATCH] Naman                score=0.6522
+2026-03-06 03:28:49,680  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:49,707  INFO      runtime — [MATCH] Naman                score=0.6522
+2026-03-06 03:28:49,707  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:49,950  INFO      runtime — [MATCH] Naman                score=0.6697
+2026-03-06 03:28:49,950  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:49,971  INFO      runtime — [MATCH] Naman                score=0.6697
+2026-03-06 03:28:49,972  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:50,260  INFO      runtime — [UNKNWN] Unknown              score=0.4058
+2026-03-06 03:28:50,268  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-28-50.jpg
+2026-03-06 03:28:50,269  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-28-50.jpg
+2026-03-06 03:28:50,269  WARNING   services.telegram_service — Telegram not configured — skipping photo.
+2026-03-06 03:28:50,269  INFO      services.security_service — Unknown events in last 120s: 1/3
+2026-03-06 03:28:50,269  WARNING   runtime — Unknown alert sent.
+2026-03-06 03:28:50,304  INFO      runtime — [UNKNWN] Unknown              score=0.4058
+2026-03-06 03:28:53,249  INFO      runtime — [MATCH] Naman                score=0.6522
+2026-03-06 03:28:53,250  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:53,276  INFO      runtime — [MATCH] Naman                score=0.6522
+2026-03-06 03:28:53,276  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:53,575  INFO      runtime — [MATCH] Naman                score=0.6460
+2026-03-06 03:28:53,575  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:53,604  INFO      runtime — [MATCH] Naman                score=0.6460
+2026-03-06 03:28:53,604  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:53,856  INFO      runtime — [MATCH] Naman                score=0.6398
+2026-03-06 03:28:53,856  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:53,870  INFO      runtime — [MATCH] Naman                score=0.6398
+2026-03-06 03:28:53,871  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:55,988  INFO      runtime — [UNKNWN] Unknown              score=0.4883
+2026-03-06 03:28:56,007  INFO      runtime — [UNKNWN] Unknown              score=0.4883
+2026-03-06 03:28:56,261  INFO      runtime — [MATCH] Naman                score=0.6061
+2026-03-06 03:28:56,262  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:56,308  INFO      runtime — [MATCH] Naman                score=0.6061
+2026-03-06 03:28:56,309  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:56,544  INFO      runtime — [MATCH] Naman                score=0.5958
+2026-03-06 03:28:56,545  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:56,605  INFO      runtime — [MATCH] Naman                score=0.5958
+2026-03-06 03:28:56,605  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:56,828  INFO      runtime — [MATCH] Naman                score=0.5927
+2026-03-06 03:28:56,828  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:56,841  INFO      runtime — [MATCH] Naman                score=0.5927
+2026-03-06 03:28:56,841  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:57,098  INFO      runtime — [MATCH] Naman                score=0.5618
+2026-03-06 03:28:57,098  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:57,138  INFO      runtime — [MATCH] Naman                score=0.5618
+2026-03-06 03:28:57,139  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:57,360  INFO      runtime — [MATCH] Naman                score=0.5534
+2026-03-06 03:28:57,360  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:57,403  INFO      runtime — [MATCH] Naman                score=0.5534
+2026-03-06 03:28:57,403  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:57,626  INFO      runtime — [MATCH] Naman                score=0.5858
+2026-03-06 03:28:57,626  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:57,669  INFO      runtime — [MATCH] Naman                score=0.5858
+2026-03-06 03:28:57,669  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:57,894  INFO      runtime — [MATCH] Naman                score=0.6178
+2026-03-06 03:28:57,895  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:57,937  INFO      runtime — [MATCH] Naman                score=0.6178
+2026-03-06 03:28:57,937  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:58,290  INFO      runtime — [MATCH] Naman                score=0.6057
+2026-03-06 03:28:58,291  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:58,303  INFO      runtime — [MATCH] Naman                score=0.6057
+2026-03-06 03:28:58,304  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:58,572  INFO      runtime — [MATCH] Naman                score=0.5731
+2026-03-06 03:28:58,572  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:58,603  INFO      runtime — [MATCH] Naman                score=0.5731
+2026-03-06 03:28:58,603  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:58,831  INFO      runtime — [MATCH] Naman                score=0.6004
+2026-03-06 03:28:58,831  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:58,869  INFO      runtime — [MATCH] Naman                score=0.6004
+2026-03-06 03:28:58,869  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:59,096  INFO      runtime — [MATCH] Naman                score=0.6099
+2026-03-06 03:28:59,096  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:59,136  INFO      runtime — [MATCH] Naman                score=0.6099
+2026-03-06 03:28:59,137  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:59,374  INFO      runtime — [MATCH] Naman                score=0.5848
+2026-03-06 03:28:59,375  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:59,407  INFO      runtime — [MATCH] Naman                score=0.5848
+2026-03-06 03:28:59,407  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:59,625  INFO      runtime — [MATCH] Naman                score=0.5144
+2026-03-06 03:28:59,626  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:59,640  INFO      runtime — [MATCH] Naman                score=0.5144
+2026-03-06 03:28:59,640  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:59,893  INFO      runtime — [MATCH] Naman                score=0.5377
+2026-03-06 03:28:59,894  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:28:59,939  INFO      runtime — [MATCH] Naman                score=0.5377
+2026-03-06 03:28:59,939  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:29:00,172  INFO      runtime — [UNKNWN] Unknown              score=0.4703
+2026-03-06 03:29:00,202  INFO      runtime — [UNKNWN] Unknown              score=0.4703
+2026-03-06 03:29:00,483  INFO      runtime — [UNKNWN] Unknown              score=0.4997
+2026-03-06 03:29:00,511  INFO      runtime — [UNKNWN] Unknown              score=0.4997
+2026-03-06 03:29:00,795  INFO      runtime — [UNKNWN] Unknown              score=0.4534
+2026-03-06 03:29:00,834  INFO      runtime — [UNKNWN] Unknown              score=0.4534
+2026-03-06 03:29:01,127  INFO      runtime — [UNKNWN] Unknown              score=0.4929
+2026-03-06 03:29:01,170  INFO      runtime — [UNKNWN] Unknown              score=0.4929
+2026-03-06 03:29:01,450  INFO      runtime — [UNKNWN] Unknown              score=0.4840
+2026-03-06 03:29:01,468  INFO      runtime — [UNKNWN] Unknown              score=0.4840
+2026-03-06 03:29:01,762  INFO      runtime — [UNKNWN] Unknown              score=0.4780
+2026-03-06 03:29:01,803  INFO      runtime — [UNKNWN] Unknown              score=0.4780
+2026-03-06 03:29:02,064  INFO      runtime — [UNKNWN] Unknown              score=0.4835
+2026-03-06 03:29:02,103  INFO      runtime — [UNKNWN] Unknown              score=0.4835
+2026-03-06 03:29:02,341  INFO      runtime — [UNKNWN] Unknown              score=0.4703
+2026-03-06 03:29:02,371  INFO      runtime — [UNKNWN] Unknown              score=0.4703
+2026-03-06 03:29:02,620  INFO      runtime — [UNKNWN] Unknown              score=0.4591
+2026-03-06 03:29:02,636  INFO      runtime — [UNKNWN] Unknown              score=0.4591
+2026-03-06 03:29:02,935  INFO      runtime — [UNKNWN] Unknown              score=0.4680
+2026-03-06 03:29:02,971  INFO      runtime — [UNKNWN] Unknown              score=0.4680
+2026-03-06 03:29:03,206  INFO      runtime — [UNKNWN] Unknown              score=0.4659
+2026-03-06 03:29:03,238  INFO      runtime — [UNKNWN] Unknown              score=0.4659
+2026-03-06 03:29:03,491  INFO      runtime — [UNKNWN] Unknown              score=0.4567
+2026-03-06 03:29:03,504  INFO      runtime — [UNKNWN] Unknown              score=0.4567
+2026-03-06 03:29:03,764  INFO      runtime — [UNKNWN] Unknown              score=0.4658
+2026-03-06 03:29:03,803  INFO      runtime — [UNKNWN] Unknown              score=0.4658
+2026-03-06 03:29:04,039  INFO      runtime — [UNKNWN] Unknown              score=0.4561
+2026-03-06 03:29:04,070  INFO      runtime — [UNKNWN] Unknown              score=0.4561
+2026-03-06 03:29:06,084  INFO      runtime — Shutting down…
+2026-03-06 03:29:06,196  INFO      runtime — System stopped cleanly.
+2026-03-06 03:48:02,389  INFO      runtime — ============================================================
+2026-03-06 03:48:02,389  INFO      runtime —   Smart Hostel AI — Runtime v2 (tracker + threat engine)
+2026-03-06 03:48:02,389  INFO      runtime — ============================================================
+2026-03-06 03:48:02,389  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-06 03:48:02,862  INFO      core.face_engine — FaceEngine ready.
+2026-03-06 03:48:02,863  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-06 03:48:06,059  INFO      runtime — Camera 0 open at 640x480. Target 15 FPS. Press 'q' to quit.
+2026-03-06 03:48:09,409  INFO      runtime — Track 0 → Unknown (0.339)
+2026-03-06 03:48:09,417  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-09.jpg
+2026-03-06 03:48:09,418  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-09.jpg
+2026-03-06 03:48:09,419  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-09.jpg
+2026-03-06 03:48:09,419  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-09.jpg
+2026-03-06 03:48:09,419  WARNING   services.telegram_service — Telegram not configured — skipping photo.
+2026-03-06 03:48:09,419  WARNING   runtime — Unknown photo alert → track 0.
+2026-03-06 03:48:09,735  INFO      runtime — Track 1 → Naman (0.657)
+2026-03-06 03:48:09,735  INFO      services.greeting_service — Speaking greeting for 'Naman': Good evening Naman. Welcome back.
+2026-03-06 03:48:09,739  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:48:12,029  INFO      runtime — Track 1 → Naman (0.646)
+2026-03-06 03:48:14,264  INFO      runtime — Track 1 → Naman (0.643)
+2026-03-06 03:48:16,416  INFO      runtime — Track 1 → Naman (0.645)
+2026-03-06 03:48:18,718  INFO      runtime — Track 1 → Naman (0.589)
+2026-03-06 03:48:20,214  INFO      runtime — Track 2 → Naman (0.519)
+2026-03-06 03:48:20,215  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:48:22,383  INFO      runtime — Track 2 → Naman (0.610)
+2026-03-06 03:48:24,478  INFO      runtime — Track 2 → Naman (0.588)
+2026-03-06 03:48:26,649  INFO      runtime — Track 2 → Naman (0.726)
+2026-03-06 03:48:27,474  INFO      runtime — Track 3 → Naman (0.587)
+2026-03-06 03:48:27,475  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:48:29,244  INFO      runtime — Track 4 → Naman (0.562)
+2026-03-06 03:48:29,246  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:48:29,479  INFO      runtime — Track 5 → Naman (0.692)
+2026-03-06 03:48:29,479  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:48:31,645  INFO      runtime — Track 5 → Naman (0.723)
+2026-03-06 03:48:33,980  INFO      runtime — Track 5 → Unknown (0.419)
+2026-03-06 03:48:33,981  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-33.jpg
+2026-03-06 03:48:33,982  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-33.jpg
+2026-03-06 03:48:33,983  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-33.jpg
+2026-03-06 03:48:33,983  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-33.jpg
+2026-03-06 03:48:33,983  WARNING   services.telegram_service — Telegram not configured — skipping photo.
+2026-03-06 03:48:33,983  WARNING   runtime — Unknown photo alert → track 5.
+2026-03-06 03:48:34,248  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-34.jpg
+2026-03-06 03:48:34,249  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-34.jpg
+2026-03-06 03:48:34,511  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-34.jpg
+2026-03-06 03:48:34,512  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-34.jpg
+2026-03-06 03:48:34,512  CRITICAL  services.security_service — 🚨 THREAT [REPEATED_UNKNOWN] — Unknown (cam 0): Unknown face (track #5) detected 3× in 60s.
+2026-03-06 03:48:34,513  INFO      services.security_service — DB: logged REPEATED_UNKNOWN for 'Unknown'.
+2026-03-06 03:48:34,514  WARNING   services.telegram_service — Telegram not configured — skipping message.
+2026-03-06 03:48:34,514  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-34.jpg
+2026-03-06 03:48:34,514  WARNING   services.telegram_service — Telegram not configured — skipping photo.
+2026-03-06 03:48:34,785  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-34.jpg
+2026-03-06 03:48:34,786  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-34.jpg
+2026-03-06 03:48:35,071  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-35.jpg
+2026-03-06 03:48:35,071  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-35.jpg
+2026-03-06 03:48:35,351  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-35.jpg
+2026-03-06 03:48:35,352  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-35.jpg
+2026-03-06 03:48:35,614  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-35.jpg
+2026-03-06 03:48:35,615  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-35.jpg
+2026-03-06 03:48:35,885  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-35.jpg
+2026-03-06 03:48:35,886  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-35.jpg
+2026-03-06 03:48:36,157  INFO      runtime — Track 5 → Naman (0.547)
+2026-03-06 03:48:38,399  INFO      runtime — Track 5 → Naman (0.562)
+2026-03-06 03:48:39,808  INFO      services.greeting_service — Speaking greeting for 'Naman': Good evening Naman. Welcome back.
+2026-03-06 03:48:40,422  INFO      runtime — Track 5 → Naman (0.629)
+2026-03-06 03:48:42,662  INFO      runtime — Track 5 → Naman (0.593)
+2026-03-06 03:48:44,780  INFO      runtime — Track 5 → Naman (0.596)
+2026-03-06 03:48:46,879  INFO      runtime — Track 5 → Naman (0.561)
+2026-03-06 03:48:49,243  INFO      runtime — Track 6 → Unknown (0.404)
+2026-03-06 03:48:49,245  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-49.jpg
+2026-03-06 03:48:49,245  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-49.jpg
+2026-03-06 03:48:49,246  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-49.jpg
+2026-03-06 03:48:49,246  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-49.jpg
+2026-03-06 03:48:49,246  WARNING   services.telegram_service — Telegram not configured — skipping photo.
+2026-03-06 03:48:49,246  WARNING   runtime — Unknown photo alert → track 6.
+2026-03-06 03:48:49,542  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-49.jpg
+2026-03-06 03:48:49,543  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-49.jpg
+2026-03-06 03:48:49,805  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-49.jpg
+2026-03-06 03:48:49,806  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-49.jpg
+2026-03-06 03:48:49,806  CRITICAL  services.security_service — 🚨 THREAT [REPEATED_UNKNOWN] — Unknown (cam 0): Unknown face (track #6) detected 3× in 60s.
+2026-03-06 03:48:49,807  INFO      services.security_service — DB: logged REPEATED_UNKNOWN for 'Unknown'.
+2026-03-06 03:48:49,808  WARNING   services.telegram_service — Telegram not configured — skipping message.
+2026-03-06 03:48:49,808  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-49.jpg
+2026-03-06 03:48:49,808  WARNING   services.telegram_service — Telegram not configured — skipping photo.
+2026-03-06 03:48:50,277  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-50.jpg
+2026-03-06 03:48:50,278  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-50.jpg
+2026-03-06 03:48:50,715  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-50.jpg
+2026-03-06 03:48:50,716  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-50.jpg
+2026-03-06 03:48:51,203  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-51.jpg
+2026-03-06 03:48:51,204  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-51.jpg
+2026-03-06 03:48:52,462  INFO      runtime — Track 6 → Unknown (0.414)
+2026-03-06 03:48:52,463  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-52.jpg
+2026-03-06 03:48:52,464  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-52.jpg
+2026-03-06 03:48:52,710  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-52.jpg
+2026-03-06 03:48:52,711  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-52.jpg
+2026-03-06 03:48:52,945  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-52.jpg
+2026-03-06 03:48:52,945  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-52.jpg
+2026-03-06 03:48:53,216  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-53.jpg
+2026-03-06 03:48:53,217  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-53.jpg
+2026-03-06 03:48:53,484  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-53.jpg
+2026-03-06 03:48:53,485  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-53.jpg
+2026-03-06 03:48:53,749  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-53.jpg
+2026-03-06 03:48:53,750  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-53.jpg
+2026-03-06 03:48:54,214  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-54.jpg
+2026-03-06 03:48:54,215  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-54.jpg
+2026-03-06 03:48:54,476  INFO      runtime — Track 6 → Naman (0.513)
+2026-03-06 03:48:54,477  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:48:56,612  INFO      runtime — Track 6 → Unknown (0.498)
+2026-03-06 03:48:56,616  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-56.jpg
+2026-03-06 03:48:56,616  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-56.jpg
+2026-03-06 03:48:56,880  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-56.jpg
+2026-03-06 03:48:56,881  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-56.jpg
+2026-03-06 03:48:57,148  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-57.jpg
+2026-03-06 03:48:57,149  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-57.jpg
+2026-03-06 03:48:57,417  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-57.jpg
+2026-03-06 03:48:57,418  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-48-57.jpg
+2026-03-06 03:48:57,678  INFO      runtime — Track 7 → Naman (0.515)
+2026-03-06 03:48:57,678  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:48:59,786  INFO      runtime — Track 7 → Naman (0.628)
+2026-03-06 03:49:02,001  INFO      runtime — Track 7 → Naman (0.694)
+2026-03-06 03:49:03,944  INFO      runtime — Track 8 → Unknown (0.114)
+2026-03-06 03:49:03,945  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-03.jpg
+2026-03-06 03:49:03,946  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-03.jpg
+2026-03-06 03:49:03,946  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-03.jpg
+2026-03-06 03:49:03,946  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-03.jpg
+2026-03-06 03:49:03,947  WARNING   services.telegram_service — Telegram not configured — skipping photo.
+2026-03-06 03:49:03,947  WARNING   runtime — Unknown photo alert → track 8.
+2026-03-06 03:49:04,216  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-04.jpg
+2026-03-06 03:49:04,216  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-04.jpg
+2026-03-06 03:49:04,480  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-04.jpg
+2026-03-06 03:49:04,480  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-04.jpg
+2026-03-06 03:49:04,480  CRITICAL  services.security_service — 🚨 THREAT [REPEATED_UNKNOWN] — Unknown (cam 0): Unknown face (track #8) detected 3× in 60s.
+2026-03-06 03:49:04,481  INFO      services.security_service — DB: logged REPEATED_UNKNOWN for 'Unknown'.
+2026-03-06 03:49:04,482  WARNING   services.telegram_service — Telegram not configured — skipping message.
+2026-03-06 03:49:04,482  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-04.jpg
+2026-03-06 03:49:04,482  WARNING   services.telegram_service — Telegram not configured — skipping photo.
+2026-03-06 03:49:04,754  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-04.jpg
+2026-03-06 03:49:04,755  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-04.jpg
+2026-03-06 03:49:05,023  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-05.jpg
+2026-03-06 03:49:05,024  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-05.jpg
+2026-03-06 03:49:05,281  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-05.jpg
+2026-03-06 03:49:05,281  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-05.jpg
+2026-03-06 03:49:05,550  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-05.jpg
+2026-03-06 03:49:05,550  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-05.jpg
+2026-03-06 03:49:05,816  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-05.jpg
+2026-03-06 03:49:05,817  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_03-49-05.jpg
+2026-03-06 03:49:06,118  INFO      runtime — Track 8 → Naman (0.557)
+2026-03-06 03:49:06,118  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:49:08,248  INFO      runtime — Track 8 → Naman (0.536)
+2026-03-06 03:49:09,969  INFO      services.greeting_service — Speaking greeting for 'Naman': Good evening Naman. Welcome back.
+2026-03-06 03:49:10,508  INFO      runtime — Track 8 → Naman (0.572)
+2026-03-06 03:49:11,864  INFO      runtime — Track 9 → Naman (0.538)
+2026-03-06 03:49:11,865  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 03:49:16,070  INFO      runtime — Quit command received.
+2026-03-06 03:49:16,147  INFO      runtime — Runtime stopped cleanly.
+2026-03-06 05:08:33,802  INFO      runtime — ============================================================
+2026-03-06 05:08:33,802  INFO      runtime —   Smart Hostel AI — Runtime v2 (tracker + threat engine)
+2026-03-06 05:08:33,802  INFO      runtime — ============================================================
+2026-03-06 05:08:33,802  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-06 05:08:34,208  INFO      core.face_engine — FaceEngine ready.
+2026-03-06 05:08:34,209  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-06 05:08:36,828  INFO      runtime — Camera 0 open at 640x480. Target 15 FPS. Press 'q' to quit.
+2026-03-06 05:08:38,113  INFO      runtime — Track 0 → Naman (0.593)
+2026-03-06 05:08:38,114  INFO      services.greeting_service — Speaking greeting for 'Naman': Good morning Naman. Attendance recorded.
+2026-03-06 05:08:38,164  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 05:08:38,577  INFO      runtime — Track 1 → Naman (0.649)
+2026-03-06 05:08:38,577  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 05:08:40,679  INFO      runtime — Track 1 → Naman (0.651)
+2026-03-06 05:08:42,963  INFO      runtime — Track 1 → Naman (0.627)
+2026-03-06 05:08:45,209  INFO      runtime — Track 1 → Naman (0.681)
+2026-03-06 05:08:47,350  INFO      runtime — Track 1 → Naman (0.646)
+2026-03-06 05:08:49,479  INFO      runtime — Track 1 → Naman (0.638)
+2026-03-06 05:08:51,544  INFO      runtime — Track 1 → Naman (0.645)
+2026-03-06 05:08:53,707  INFO      runtime — Track 1 → Naman (0.636)
+2026-03-06 05:08:54,770  INFO      runtime — Quit command received.
+2026-03-06 05:08:54,815  INFO      runtime — Runtime stopped cleanly.
+2026-03-06 05:11:53,623  INFO      runtime — ============================================================
+2026-03-06 05:11:53,623  INFO      runtime —   Smart Hostel AI — Runtime v2 (tracker + threat engine)
+2026-03-06 05:11:53,623  INFO      runtime — ============================================================
+2026-03-06 05:11:53,623  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-06 05:11:54,040  INFO      core.face_engine — FaceEngine ready.
+2026-03-06 05:11:54,045  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-06 05:11:57,358  INFO      runtime — Camera 0 open at 640x480. Target 15 FPS. Press 'q' to quit.
+2026-03-06 05:11:58,899  INFO      runtime — Track 0 → Naman (0.614)
+2026-03-06 05:11:58,900  INFO      services.greeting_service — Speaking greeting for 'Naman': Good morning Naman. Attendance recorded.
+2026-03-06 05:11:58,901  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 05:12:01,095  INFO      runtime — Track 0 → Naman (0.527)
+2026-03-06 05:12:03,127  INFO      runtime — Track 0 → Unknown (0.480)
+2026-03-06 05:12:03,134  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-03.jpg
+2026-03-06 05:12:03,135  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-03.jpg
+2026-03-06 05:12:03,136  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-03.jpg
+2026-03-06 05:12:03,136  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-03.jpg
+2026-03-06 05:12:03,136  WARNING   runtime — Unknown photo alert → track 0.
+2026-03-06 05:12:03,409  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-03.jpg
+2026-03-06 05:12:03,410  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-03.jpg
+2026-03-06 05:12:03,664  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-03.jpg
+2026-03-06 05:12:03,664  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-03.jpg
+2026-03-06 05:12:03,664  CRITICAL  services.security_service — 🚨 THREAT [REPEATED_UNKNOWN] — Unknown (cam 0): Unknown face (track #0) detected 3× in 60s.
+2026-03-06 05:12:03,667  INFO      services.security_service — DB: logged REPEATED_UNKNOWN for 'Unknown'.
+2026-03-06 05:12:03,668  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-03.jpg
+2026-03-06 05:12:03,938  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-03.jpg
+2026-03-06 05:12:03,939  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-03.jpg
+2026-03-06 05:12:04,255  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-04.jpg
+2026-03-06 05:12:04,257  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-04.jpg
+2026-03-06 05:12:04,532  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-04.jpg
+2026-03-06 05:12:04,533  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-04.jpg
+2026-03-06 05:12:04,803  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-04.jpg
+2026-03-06 05:12:04,804  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-04.jpg
+2026-03-06 05:12:05,098  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-05.jpg
+2026-03-06 05:12:05,099  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-05.jpg
+2026-03-06 05:12:05,376  INFO      runtime — Track 0 → Unknown (0.467)
+2026-03-06 05:12:05,377  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-05.jpg
+2026-03-06 05:12:05,378  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-05.jpg
+2026-03-06 05:12:05,642  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-05.jpg
+2026-03-06 05:12:05,644  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-05.jpg
+2026-03-06 05:12:05,897  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-05.jpg
+2026-03-06 05:12:05,898  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-05.jpg
+2026-03-06 05:12:06,164  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-06.jpg
+2026-03-06 05:12:06,165  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-06.jpg
+2026-03-06 05:12:06,425  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-06.jpg
+2026-03-06 05:12:06,425  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-06.jpg
+2026-03-06 05:12:06,713  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-06.jpg
+2026-03-06 05:12:06,714  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-06.jpg
+2026-03-06 05:12:06,979  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-06.jpg
+2026-03-06 05:12:06,980  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-06.jpg
+2026-03-06 05:12:07,304  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-07.jpg
+2026-03-06 05:12:07,305  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-07.jpg
+2026-03-06 05:12:07,574  INFO      runtime — Track 0 → Unknown (0.477)
+2026-03-06 05:12:07,575  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-07.jpg
+2026-03-06 05:12:07,576  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-07.jpg
+2026-03-06 05:12:07,865  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-07.jpg
+2026-03-06 05:12:07,865  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-07.jpg
+2026-03-06 05:12:08,164  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-08.jpg
+2026-03-06 05:12:08,164  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-08.jpg
+2026-03-06 05:12:08,462  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-08.jpg
+2026-03-06 05:12:08,463  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-08.jpg
+2026-03-06 05:12:08,761  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-08.jpg
+2026-03-06 05:12:08,762  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-08.jpg
+2026-03-06 05:12:09,063  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-09.jpg
+2026-03-06 05:12:09,064  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-09.jpg
+2026-03-06 05:12:09,387  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-09.jpg
+2026-03-06 05:12:09,388  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-09.jpg
+2026-03-06 05:12:09,719  INFO      runtime — Track 0 → Naman (0.516)
+2026-03-06 05:12:11,734  INFO      runtime — Track 1 → Unknown (0.390)
+2026-03-06 05:12:11,735  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-11.jpg
+2026-03-06 05:12:11,736  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-11.jpg
+2026-03-06 05:12:11,736  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-11.jpg
+2026-03-06 05:12:11,736  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-11.jpg
+2026-03-06 05:12:11,736  WARNING   runtime — Unknown photo alert → track 1.
+2026-03-06 05:12:11,987  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-11.jpg
+2026-03-06 05:12:11,988  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-11.jpg
+2026-03-06 05:12:13,519  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-13.jpg
+2026-03-06 05:12:13,520  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-13.jpg
+2026-03-06 05:12:13,520  CRITICAL  services.security_service — 🚨 THREAT [REPEATED_UNKNOWN] — Unknown (cam 0): Unknown face (track #1) detected 3× in 60s.
+2026-03-06 05:12:13,521  INFO      services.security_service — DB: logged REPEATED_UNKNOWN for 'Unknown'.
+2026-03-06 05:12:13,521  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-13.jpg
+2026-03-06 05:12:13,788  INFO      runtime — Track 2 → Unknown (0.420)
+2026-03-06 05:12:13,789  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-13.jpg
+2026-03-06 05:12:13,790  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-13.jpg
+2026-03-06 05:12:13,790  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-13.jpg
+2026-03-06 05:12:13,790  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-13.jpg
+2026-03-06 05:12:13,790  WARNING   runtime — Unknown photo alert → track 2.
+2026-03-06 05:12:14,053  INFO      runtime — Track 3 → Unknown (0.407)
+2026-03-06 05:12:14,053  CRITICAL  services.security_service — 🚨 THREAT [RAPID_FAIL] — Unknown (cam 0): Rapid recognition failures: 5 in 10s. Possible evasion attempt.
+2026-03-06 05:12:14,054  INFO      services.security_service — DB: logged RAPID_FAIL for 'Unknown'.
+2026-03-06 05:12:14,055  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-14.jpg
+2026-03-06 05:12:14,056  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-14.jpg
+2026-03-06 05:12:14,056  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-14.jpg
+2026-03-06 05:12:14,056  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-14.jpg
+2026-03-06 05:12:14,056  WARNING   runtime — Unknown photo alert → track 3.
+2026-03-06 05:12:14,362  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-14.jpg
+2026-03-06 05:12:14,363  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-14.jpg
+2026-03-06 05:12:14,623  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-14.jpg
+2026-03-06 05:12:14,624  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-14.jpg
+2026-03-06 05:12:14,895  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-14.jpg
+2026-03-06 05:12:14,896  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-14.jpg
+2026-03-06 05:12:14,896  CRITICAL  services.security_service — 🚨 THREAT [REPEATED_UNKNOWN] — Unknown (cam 0): Unknown face (track #2) detected 3× in 60s.
+2026-03-06 05:12:14,897  INFO      services.security_service — DB: logged REPEATED_UNKNOWN for 'Unknown'.
+2026-03-06 05:12:14,897  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-14.jpg
+2026-03-06 05:12:15,170  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-15.jpg
+2026-03-06 05:12:15,171  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-15.jpg
+2026-03-06 05:12:15,428  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-15.jpg
+2026-03-06 05:12:15,429  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-15.jpg
+2026-03-06 05:12:15,698  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-15.jpg
+2026-03-06 05:12:15,699  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-15.jpg
+2026-03-06 05:12:15,962  INFO      runtime — Track 2 → Unknown (0.478)
+2026-03-06 05:12:15,963  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-15.jpg
+2026-03-06 05:12:15,964  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-12-15.jpg
+2026-03-06 05:12:16,038  INFO      runtime — Quit command received.
+2026-03-06 05:12:16,077  INFO      runtime — Runtime stopped cleanly.
+2026-03-06 05:27:29,244  INFO      runtime — ============================================================
+2026-03-06 05:27:29,244  INFO      runtime —   Smart Hostel AI — Runtime v2 (tracker + threat engine)
+2026-03-06 05:27:29,244  INFO      runtime — ============================================================
+2026-03-06 05:27:29,244  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-06 05:27:29,915  INFO      core.face_engine — FaceEngine ready.
+2026-03-06 05:27:30,231  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-06 05:27:34,679  INFO      runtime — Camera 0 open at 640x480. Target 15 FPS. Press 'q' to quit.
+2026-03-06 05:27:37,132  INFO      runtime — Track 0 → Naman (0.577)
+2026-03-06 05:27:37,132  INFO      services.greeting_service — Speaking greeting for 'Naman': Good morning Naman. Attendance recorded.
+2026-03-06 05:27:37,157  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 05:27:39,371  INFO      runtime — Track 0 → Naman (0.656)
+2026-03-06 05:27:41,692  INFO      runtime — Track 0 → Naman (0.662)
+2026-03-06 05:27:43,869  INFO      runtime — Track 0 → Naman (0.565)
+2026-03-06 05:27:46,034  INFO      runtime — Track 0 → Naman (0.574)
+2026-03-06 05:27:48,126  INFO      runtime — Track 0 → Unknown (0.439)
+2026-03-06 05:27:48,136  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-48.jpg
+2026-03-06 05:27:48,137  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-48.jpg
+2026-03-06 05:27:48,138  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-48.jpg
+2026-03-06 05:27:48,138  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-48.jpg
+2026-03-06 05:27:48,138  WARNING   runtime — Unknown photo alert → track 0.
+2026-03-06 05:27:48,455  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-48.jpg
+2026-03-06 05:27:48,456  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-48.jpg
+2026-03-06 05:27:48,740  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-48.jpg
+2026-03-06 05:27:48,741  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-48.jpg
+2026-03-06 05:27:48,741  CRITICAL  services.security_service — 🚨 THREAT [REPEATED_UNKNOWN] — Unknown (cam 0): Unknown face (track #0) detected 3× in 60s.
+2026-03-06 05:27:48,742  INFO      services.security_service — DB: logged REPEATED_UNKNOWN for 'Unknown'.
+2026-03-06 05:27:48,743  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-48.jpg
+2026-03-06 05:27:49,042  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-49.jpg
+2026-03-06 05:27:49,042  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-49.jpg
+2026-03-06 05:27:49,373  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-49.jpg
+2026-03-06 05:27:49,374  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-49.jpg
+2026-03-06 05:27:49,694  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-49.jpg
+2026-03-06 05:27:49,695  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-49.jpg
+2026-03-06 05:27:49,960  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-49.jpg
+2026-03-06 05:27:49,961  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-49.jpg
+2026-03-06 05:27:50,229  INFO      runtime — Track 0 → Naman (0.543)
+2026-03-06 05:27:52,471  INFO      runtime — Track 0 → Unknown (0.483)
+2026-03-06 05:27:52,472  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-52.jpg
+2026-03-06 05:27:52,473  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-52.jpg
+2026-03-06 05:27:52,735  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-52.jpg
+2026-03-06 05:27:52,736  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-52.jpg
+2026-03-06 05:27:52,984  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-52.jpg
+2026-03-06 05:27:52,985  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-52.jpg
+2026-03-06 05:27:53,242  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-53.jpg
+2026-03-06 05:27:53,243  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-53.jpg
+2026-03-06 05:27:53,513  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-53.jpg
+2026-03-06 05:27:53,514  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-53.jpg
+2026-03-06 05:27:53,792  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-53.jpg
+2026-03-06 05:27:53,793  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-53.jpg
+2026-03-06 05:27:54,044  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-54.jpg
+2026-03-06 05:27:54,045  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-54.jpg
+2026-03-06 05:27:54,325  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-54.jpg
+2026-03-06 05:27:54,326  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-27-54.jpg
+2026-03-06 05:27:54,576  INFO      runtime — Track 0 → Naman (0.505)
+2026-03-06 05:27:54,840  INFO      runtime — Track 1 → Naman (0.502)
+2026-03-06 05:27:54,841  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 05:27:57,015  INFO      runtime — Quit command received.
+2026-03-06 05:27:57,050  INFO      runtime — Runtime stopped cleanly.
+2026-03-06 05:31:19,244  INFO      runtime — ============================================================
+2026-03-06 05:31:19,244  INFO      runtime —   Smart Hostel AI — Runtime v2 (tracker + threat engine)
+2026-03-06 05:31:19,244  INFO      runtime — ============================================================
+2026-03-06 05:31:19,244  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-06 05:31:19,965  INFO      core.face_engine — FaceEngine ready.
+2026-03-06 05:31:19,986  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-06 05:31:24,431  INFO      runtime — Camera 0 open at 640x480. Target 15 FPS. Press 'q' to quit.
+2026-03-06 05:31:29,011  INFO      runtime — Quit command received.
+2026-03-06 05:31:29,026  INFO      runtime — Runtime stopped cleanly.
+2026-03-06 05:34:09,777  INFO      runtime — ============================================================
+2026-03-06 05:34:09,777  INFO      runtime —   Smart Hostel AI — Runtime v2 (tracker + threat engine)
+2026-03-06 05:34:09,777  INFO      runtime — ============================================================
+2026-03-06 05:34:09,777  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-06 05:34:10,192  INFO      core.face_engine — FaceEngine ready.
+2026-03-06 05:34:10,193  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-06 05:34:12,788  INFO      runtime — Camera 0 open at 640x480. Target 15 FPS. Press 'q' to quit.
+2026-03-06 05:34:16,014  INFO      runtime — Quit command received.
+2026-03-06 05:34:16,043  INFO      runtime — Runtime stopped cleanly.
+2026-03-06 05:36:09,890  INFO      runtime — ============================================================
+2026-03-06 05:36:09,890  INFO      runtime —   Smart Hostel AI — Runtime v2 (tracker + threat engine)
+2026-03-06 05:36:09,890  INFO      runtime — ============================================================
+2026-03-06 05:36:09,890  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-06 05:36:10,493  INFO      core.face_engine — FaceEngine ready.
+2026-03-06 05:36:10,504  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-06 05:36:13,836  INFO      runtime — Camera 0 open at 640x480. Target 15 FPS. Press 'q' to quit.
+2026-03-06 05:36:19,378  INFO      runtime — Track 0 → Unknown (0.248)
+2026-03-06 05:36:19,386  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-19.jpg
+2026-03-06 05:36:19,387  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-19.jpg
+2026-03-06 05:36:19,388  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-19.jpg
+2026-03-06 05:36:19,388  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-19.jpg
+2026-03-06 05:36:19,389  WARNING   runtime — Unknown photo alert → track 0.
+2026-03-06 05:36:19,674  INFO      runtime — Track 1 → Unknown (0.389)
+2026-03-06 05:36:19,675  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-19.jpg
+2026-03-06 05:36:19,676  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-19.jpg
+2026-03-06 05:36:19,677  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-19.jpg
+2026-03-06 05:36:19,677  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-19.jpg
+2026-03-06 05:36:19,677  WARNING   runtime — Unknown photo alert → track 1.
+2026-03-06 05:36:21,238  INFO      runtime — Track 2 → Unknown (0.468)
+2026-03-06 05:36:21,239  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-21.jpg
+2026-03-06 05:36:21,240  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-21.jpg
+2026-03-06 05:36:21,241  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-21.jpg
+2026-03-06 05:36:21,241  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-21.jpg
+2026-03-06 05:36:21,241  WARNING   runtime — Unknown photo alert → track 2.
+2026-03-06 05:36:21,576  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-21.jpg
+2026-03-06 05:36:21,577  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-21.jpg
+2026-03-06 05:36:21,861  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-21.jpg
+2026-03-06 05:36:21,862  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-21.jpg
+2026-03-06 05:36:21,862  CRITICAL  services.security_service — 🚨 THREAT [REPEATED_UNKNOWN] — Unknown (cam 0): Unknown face (track #2) detected 3× in 60s.
+2026-03-06 05:36:21,867  INFO      services.security_service — DB: logged REPEATED_UNKNOWN for 'Unknown'.
+2026-03-06 05:36:21,868  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-21.jpg
+2026-03-06 05:36:22,182  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-22.jpg
+2026-03-06 05:36:22,183  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-22.jpg
+2026-03-06 05:36:22,498  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-22.jpg
+2026-03-06 05:36:22,499  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-22.jpg
+2026-03-06 05:36:22,809  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-22.jpg
+2026-03-06 05:36:22,810  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-22.jpg
+2026-03-06 05:36:23,101  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-23.jpg
+2026-03-06 05:36:23,102  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-23.jpg
+2026-03-06 05:36:23,388  INFO      runtime — Track 2 → Naman (0.521)
+2026-03-06 05:36:23,388  INFO      services.greeting_service — Speaking greeting for 'Naman': Good morning Naman. Attendance recorded.
+2026-03-06 05:36:23,389  INFO      core.attendance — 'Naman' already marked today.
+2026-03-06 05:36:25,598  INFO      runtime — Track 2 → Unknown (0.479)
+2026-03-06 05:36:25,599  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-25.jpg
+2026-03-06 05:36:25,600  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-25.jpg
+2026-03-06 05:36:25,887  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-25.jpg
+2026-03-06 05:36:25,888  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-25.jpg
+2026-03-06 05:36:26,202  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-26.jpg
+2026-03-06 05:36:26,202  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-26.jpg
+2026-03-06 05:36:26,514  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-26.jpg
+2026-03-06 05:36:26,514  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-26.jpg
+2026-03-06 05:36:26,807  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-26.jpg
+2026-03-06 05:36:26,808  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-26.jpg
+2026-03-06 05:36:27,094  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-27.jpg
+2026-03-06 05:36:27,095  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-27.jpg
+2026-03-06 05:36:27,409  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-27.jpg
+2026-03-06 05:36:27,410  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-27.jpg
+2026-03-06 05:36:27,691  INFO      runtime — Track 2 → Unknown (0.467)
+2026-03-06 05:36:27,691  CRITICAL  services.security_service — 🚨 THREAT [RAPID_FAIL] — Unknown (cam 0): Rapid recognition failures: 5 in 10s. Possible evasion attempt.
+2026-03-06 05:36:27,692  INFO      services.security_service — DB: logged RAPID_FAIL for 'Unknown'.
+2026-03-06 05:36:27,695  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-27.jpg
+2026-03-06 05:36:27,696  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-27.jpg
+2026-03-06 05:36:28,447  INFO      runtime — Track 3 → Unknown (0.487)
+2026-03-06 05:36:28,448  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-28.jpg
+2026-03-06 05:36:28,449  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-28.jpg
+2026-03-06 05:36:28,450  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-28.jpg
+2026-03-06 05:36:28,450  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-28.jpg
+2026-03-06 05:36:28,450  WARNING   runtime — Unknown photo alert → track 3.
+2026-03-06 05:36:28,762  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-28.jpg
+2026-03-06 05:36:28,764  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-28.jpg
+2026-03-06 05:36:29,067  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-29.jpg
+2026-03-06 05:36:29,089  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-29.jpg
+2026-03-06 05:36:29,391  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-29.jpg
+2026-03-06 05:36:29,392  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/AI Smart Hostel Attendance System/captures/unknown_2026-03-06_05-36-29.jpg
+2026-03-06 05:36:29,693  INFO      runtime — Track 2 → Naman (0.562)
+2026-03-06 05:36:31,935  INFO      runtime — Track 2 → Naman (0.657)
+2026-03-06 05:36:34,176  INFO      runtime — Track 2 → Naman (0.666)
+2026-03-06 05:36:36,288  INFO      runtime — Track 2 → Naman (0.644)
+2026-03-06 05:36:38,536  INFO      runtime — Track 2 → Naman (0.635)
+2026-03-06 05:36:40,713  INFO      runtime — Track 2 → Naman (0.647)
+2026-03-06 05:36:42,905  INFO      runtime — Track 2 → Naman (0.635)
+2026-03-06 05:36:45,168  INFO      runtime — Track 2 → Naman (0.632)
+2026-03-06 05:36:47,370  INFO      runtime — Track 2 → Naman (0.616)
+2026-03-06 05:36:49,541  INFO      runtime — Track 2 → Naman (0.628)
+2026-03-06 05:36:51,678  INFO      runtime — Track 2 → Naman (0.607)
+2026-03-06 05:36:53,529  INFO      services.greeting_service — Speaking greeting for 'Naman': Good morning Naman. Attendance recorded.
+2026-03-06 05:36:53,797  INFO      runtime — Track 2 → Naman (0.643)
+2026-03-06 05:36:55,963  INFO      runtime — Track 2 → Naman (0.629)
+2026-03-06 05:36:57,999  INFO      runtime — Track 2 → Naman (0.624)
+2026-03-06 05:37:00,029  INFO      runtime — Track 2 → Naman (0.619)
+2026-03-06 05:37:01,415  INFO      runtime — Quit command received.
+2026-03-06 05:37:01,490  INFO      runtime — Runtime stopped cleanly.
