@@ -84,20 +84,36 @@ AI Smart Hostel Attendance System/
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Project Setup
+
+To quickly install all dependencies and prepare the environment, run the setup script.
+
+### 1️⃣ Clone the Repository
 
 ```bash
-# 1. Clone
-git clone https://github.com/yourusername/ai-smart-hostel-security.git
+git clone https://github.com/namankhatakdotcpp/ai-smart-hostel-security.git
 cd ai-smart-hostel-security
-
-# 2. Virtual environment
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-
-# 3. Dependencies
-pip install -r requirements.txt
 ```
+
+### 2️⃣ Run the Setup Script
+
+```bash
+bash setup.sh
+```
+
+This script will automatically:
+
+* Create a Python virtual environment (`venv`)
+* Activate the environment
+* Upgrade `pip`
+* Install all required dependencies from `requirements.txt`
+
+### 3️⃣ Activate the Environment (if not already active)
+
+```bash
+source venv/bin/activate
+```
+
 
 ---
 
