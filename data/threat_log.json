@@ -78,5 +78,13 @@
     "person": "Unknown",
     "count": 1,
     "window_s": 60
+  },
+  {
+    "timestamp": "2026-03-07T14:05:37.968298",
+    "time_str": "02:05 PM",
+    "event_type": "REPEATED_UNKNOWN",
+    "person": "Unknown",
+    "count": 1,
+    "window_s": 60
   }
 ]

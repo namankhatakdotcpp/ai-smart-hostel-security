@@ -1210,3 +1210,106 @@
 2026-03-06 05:37:00,029  INFO      runtime — Track 2 → Naman (0.619)
 2026-03-06 05:37:01,415  INFO      runtime — Quit command received.
 2026-03-06 05:37:01,490  INFO      runtime — Runtime stopped cleanly.
+2026-03-07 13:38:49,944  INFO      runtime — ============================================================
+2026-03-07 13:38:49,944  INFO      runtime —   Smart Hostel AI — Runtime v2 (tracker + threat engine)
+2026-03-07 13:38:49,944  INFO      runtime — ============================================================
+2026-03-07 13:38:49,944  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-07 13:38:50,396  INFO      core.face_engine — FaceEngine ready.
+2026-03-07 13:38:50,403  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-07 13:38:53,248  INFO      runtime — Camera 0 open at 640x480. Target 15 FPS. Press 'q' to quit.
+2026-03-07 13:39:00,179  INFO      runtime — Track 0 → Naman (0.516)
+2026-03-07 13:39:00,179  INFO      services.greeting_service — Speaking greeting for 'Naman': Good afternoon Naman. Attendance recorded.
+2026-03-07 13:39:00,241  INFO      core.attendance — ✅ Attendance marked — Naman | 2026-03-07 13:39:00
+2026-03-07 13:39:00,246  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/naman_2026-03-07_13-39-00.jpg
+2026-03-07 13:39:00,246  INFO      services.telegram_service — Queuing entry alert for 'Naman' with image: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/naman_2026-03-07_13-39-00.jpg
+2026-03-07 13:39:00,246  INFO      runtime — Entry logged and alert sent for 'Naman'.
+2026-03-07 13:39:00,701  INFO      runtime — Track 1 → Naman (0.681)
+2026-03-07 13:39:00,701  INFO      core.attendance — 'Naman' already marked today.
+2026-03-07 13:39:02,399  INFO      runtime — Track 0 → Naman (0.773)
+2026-03-07 13:39:04,527  INFO      runtime — Track 0 → Naman (0.776)
+2026-03-07 13:39:06,680  INFO      runtime — Track 0 → Naman (0.778)
+2026-03-07 13:39:08,896  INFO      runtime — Track 0 → Naman (0.796)
+2026-03-07 13:39:10,934  INFO      runtime — Track 0 → Naman (0.777)
+2026-03-07 13:39:13,094  INFO      runtime — Track 0 → Naman (0.804)
+2026-03-07 13:39:15,215  INFO      runtime — Track 0 → Naman (0.790)
+2026-03-07 13:39:17,361  INFO      runtime — Track 0 → Naman (0.763)
+2026-03-07 13:39:19,248  INFO      runtime — Quit command received.
+2026-03-07 13:39:19,264  INFO      runtime — Runtime stopped cleanly.
+2026-03-07 13:58:20,569  INFO      runtime — ============================================================
+2026-03-07 13:58:20,570  INFO      runtime —   Smart Hostel AI — Runtime v2 (tracker + threat engine)
+2026-03-07 13:58:20,570  INFO      runtime — ============================================================
+2026-03-07 13:58:20,570  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-07 13:58:21,272  INFO      core.face_engine — FaceEngine ready.
+2026-03-07 13:58:21,273  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-07 13:58:25,314  INFO      runtime — Camera 0 open at 640x480. Target 15 FPS. Press 'q' to quit.
+2026-03-07 13:58:28,876  INFO      runtime — Track 0 → Naman (0.760)
+2026-03-07 13:58:28,876  INFO      services.greeting_service — Speaking greeting for 'Naman': Good afternoon Naman. Attendance recorded.
+2026-03-07 13:58:29,192  INFO      core.attendance — 'Naman' already marked today.
+2026-03-07 13:58:31,224  INFO      runtime — Track 0 → Naman (0.756)
+2026-03-07 13:58:33,437  INFO      runtime — Track 0 → Naman (0.747)
+2026-03-07 13:58:35,449  INFO      runtime — Track 0 → Naman (0.737)
+2026-03-07 13:58:37,583  INFO      runtime — Track 0 → Naman (0.756)
+2026-03-07 13:58:39,628  INFO      runtime — Quit command received.
+2026-03-07 13:58:39,672  INFO      runtime — Runtime stopped cleanly.
+2026-03-07 14:04:29,276  INFO      runtime — ============================================================
+2026-03-07 14:04:29,276  INFO      runtime —   Smart Hostel AI — Runtime v2 (tracker + threat engine)
+2026-03-07 14:04:29,276  INFO      runtime — ============================================================
+2026-03-07 14:04:29,276  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-07 14:04:29,705  INFO      core.face_engine — FaceEngine ready.
+2026-03-07 14:04:29,711  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-07 14:04:32,966  INFO      runtime — Camera 0 open at 640x480. Target 15 FPS. Press 'q' to quit.
+2026-03-07 14:05:33,544  INFO      runtime — Track 0 → Naman (0.528)
+2026-03-07 14:05:33,546  INFO      services.greeting_service — Speaking greeting for 'Naman': Good afternoon Naman. Attendance recorded.
+2026-03-07 14:05:33,548  INFO      core.attendance — 'Naman' already marked today.
+2026-03-07 14:05:33,825  INFO      runtime — Track 1 → Naman (0.548)
+2026-03-07 14:05:33,825  INFO      core.attendance — 'Naman' already marked today.
+2026-03-07 14:05:35,697  INFO      runtime — Track 0 → Unknown (0.265)
+2026-03-07 14:05:35,703  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-35.jpg
+2026-03-07 14:05:35,704  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-35.jpg
+2026-03-07 14:05:35,705  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-35.jpg
+2026-03-07 14:05:35,705  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-35.jpg
+2026-03-07 14:05:35,705  WARNING   runtime — Unknown photo alert → track 0.
+2026-03-07 14:05:36,587  INFO      runtime — Track 1 → Unknown (0.461)
+2026-03-07 14:05:36,588  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-36.jpg
+2026-03-07 14:05:36,588  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-36.jpg
+2026-03-07 14:05:36,589  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-36.jpg
+2026-03-07 14:05:36,589  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-36.jpg
+2026-03-07 14:05:36,589  WARNING   runtime — Unknown photo alert → track 1.
+2026-03-07 14:05:36,912  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-36.jpg
+2026-03-07 14:05:36,915  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-36.jpg
+2026-03-07 14:05:37,966  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-37.jpg
+2026-03-07 14:05:37,966  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-37.jpg
+2026-03-07 14:05:37,966  CRITICAL  services.security_service — 🚨 THREAT [REPEATED_UNKNOWN] — Unknown (cam 0): Unknown face (track #1) detected 3× in 60s.
+2026-03-07 14:05:37,967  INFO      services.security_service — DB: logged REPEATED_UNKNOWN for 'Unknown'.
+2026-03-07 14:05:37,968  WARNING   services.telegram_service — Queuing unknown-person alert, image: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-37.jpg
+2026-03-07 14:05:38,255  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-38.jpg
+2026-03-07 14:05:38,256  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-38.jpg
+2026-03-07 14:05:38,542  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-38.jpg
+2026-03-07 14:05:38,543  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-38.jpg
+2026-03-07 14:05:38,818  INFO      runtime — Track 1 → Naman (0.536)
+2026-03-07 14:05:40,968  INFO      runtime — Track 1 → Unknown (0.475)
+2026-03-07 14:05:40,969  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-40.jpg
+2026-03-07 14:05:40,970  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-40.jpg
+2026-03-07 14:05:41,215  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-41.jpg
+2026-03-07 14:05:41,216  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-41.jpg
+2026-03-07 14:05:41,459  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-41.jpg
+2026-03-07 14:05:41,460  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-41.jpg
+2026-03-07 14:05:41,699  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-41.jpg
+2026-03-07 14:05:41,700  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-41.jpg
+2026-03-07 14:05:42,171  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-42.jpg
+2026-03-07 14:05:42,171  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-42.jpg
+2026-03-07 14:05:42,432  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-42.jpg
+2026-03-07 14:05:42,433  INFO      core.recognition — Capture saved: /Users/a7206035376/Documents/Projects/ai-smart-hostel-security/captures/unknown_2026-03-07_14-05-42.jpg
+2026-03-07 14:05:42,702  INFO      runtime — Track 2 → Naman (0.523)
+2026-03-07 14:05:42,702  INFO      core.attendance — 'Naman' already marked today.
+2026-03-07 14:05:46,701  INFO      runtime — Quit command received.
+2026-03-07 14:05:46,725  INFO      runtime — Runtime stopped cleanly.
+2026-03-07 14:10:27,003  INFO      runtime — ============================================================
+2026-03-07 14:10:27,003  INFO      runtime —   Smart Hostel AI — Runtime v2 (tracker + threat engine)
+2026-03-07 14:10:27,003  INFO      runtime — ============================================================
+2026-03-07 14:10:27,003  INFO      core.face_engine — Initialising FaceEngine (model=buffalo_l)…
+2026-03-07 14:10:27,530  INFO      core.face_engine — FaceEngine ready.
+2026-03-07 14:10:27,534  INFO      core.recognition — Loaded 1 student(s): ['naman']
+2026-03-07 14:10:31,014  INFO      runtime — Camera 0 open at 640x480. Target 15 FPS. Press 'q' to quit.
+2026-03-07 14:10:34,685  INFO      runtime — Quit command received.
+2026-03-07 14:10:34,712  INFO      runtime — Runtime stopped cleanly.
