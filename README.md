@@ -150,6 +150,9 @@ Starts the webcam, runs face detection + recognition, logs attendance, sends Tel
 ```bash
 python services/telegram_bot_listener.py
 ```
+```bash
+bash run_bot.sh
+```
 
 Available commands:
 
